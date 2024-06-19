@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb008d28.css",
+    "main.js": "/static/js/main.84c595ef.js",
+    "static/media/construction.jpg": "/static/media/construction.b8106827ca3d20bfe956.jpg",
+    "static/media/edusity.png": "/static/media/edusity.77b900fd5f86d5f40321.png",
+    "static/media/justice-for-sport.png": "/static/media/justice-for-sport.20382dca2ca64f6450d8.png",
+    "static/media/notes-ui.png": "/static/media/notes-ui.5421df560c9ae9a0c124.png",
+    "static/media/web-gallery.png": "/static/media/web-gallery.a3c575607799d1415a9d.png",
+    "static/media/resume.jpg": "/static/media/resume.cdb84f92daccdb89bf7b.jpg",
+    "static/media/dynamic-ui.jpg": "/static/media/dynamic-ui.bed83c523fbf3c7f8b1d.jpg",
+    "static/media/todo.jpg": "/static/media/todo.8a824ca45c812ae59187.jpg",
+    "static/media/mohit_resume.pdf": "/static/media/mohit_resume.2577f9f9b286c75dc620.pdf",
+    "static/media/istockphoto-1352603244-612x612.jpg": "/static/media/istockphoto-1352603244-612x612.e219234bab85e0177454.jpg",
+    "static/media/popup.png": "/static/media/popup.79d8c07253cd881dd744.png",
+    "static/media/man-work.avif": "/static/media/man-work.0fb10bdee418ef1e2bff.avif",
+    "index.html": "/index.html",
+    "main.bb008d28.css.map": "/static/css/main.bb008d28.css.map",
+    "main.84c595ef.js.map": "/static/js/main.84c595ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb008d28.css",
+    "static/js/main.84c595ef.js"
+  ]
+}
